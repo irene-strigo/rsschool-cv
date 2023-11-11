@@ -47,5 +47,10 @@ return ''
 return strArr.map((el,i) => i%2!=0?el.split('').reverse().join(''):el).join(' ')
 }
 ```
+#### **Projeсts**
++ Layout: [Gymnastics school](https://irene-strigo.github.io/homeworks/gymnastics/index.html)
++ Group-project: [Moving company](https://irene-strigo.github.io/f29-project-moving/)
++ Js-project: [Secret Santa](https://irene-strigo.github.io/secret-santa-project/index.html)
+
 #### **English**
 A2 level
